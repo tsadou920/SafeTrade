@@ -4,7 +4,6 @@
 ### Project Structure
 
 - `FrontendSafeTrade`
-    + @Michelle: add some description here, please!
 
 - `BackendSafeTrade`
     + This is a RESTFUL server. The frontend makes api calls to BackendSafeTrade to get data. BackendSafeTrade in turn collects and customize required data by making api calls to IEX as well as to local PostgreSQL server.
